@@ -1,4 +1,4 @@
-# Recall (Android)
+# Memorizer (Android)
 
 Simple notepad + home-screen widget. Every time you unlock the phone, Recall picks the next
 saved note (shuffled, no repeats until every note has been shown) and shows it on the widget.
